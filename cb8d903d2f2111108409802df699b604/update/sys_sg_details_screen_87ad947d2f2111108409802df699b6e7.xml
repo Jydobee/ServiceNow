@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> Requested Item</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">22add03d2f2111108409802df699b680</icon>
+        <name>Details</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 18:07:24</sys_created_on>
+        <sys_id>87ad947d2f2111108409802df699b6e7</sys_id>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Testing Repo" source="x_716626_testing_r">cb8d903d2f2111108409802df699b604</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Repo">cb8d903d2f2111108409802df699b604</sys_scope>
+        <sys_update_name>sys_sg_details_screen_87ad947d2f2111108409802df699b6e7</sys_update_name>
+        <table>sc_req_item</table>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=87ad947d2f2111108409802df699b6e7"/>
+</record_update>
