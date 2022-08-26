@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home Testing Repo</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 18:07:22</sys_created_on>
+        <sys_id>a2ad947d2f2111108409802df699b69a</sys_id>
+        <sys_name>Home Testing Repo</sys_name>
+        <sys_package display_value="Testing Repo" source="x_716626_testing_r">cb8d903d2f2111108409802df699b604</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Repo">cb8d903d2f2111108409802df699b604</sys_scope>
+        <sys_update_name>sys_sg_icon_a2ad947d2f2111108409802df699b69a</sys_update_name>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>
